@@ -11,6 +11,7 @@ body {
 }
 
 header {
+  background-image: url(Abhya_bg.jpg);
   background-color: #EA738D;
   height: 100vh;
 }
